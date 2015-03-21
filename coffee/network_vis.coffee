@@ -295,7 +295,7 @@ Network = () ->
 
   # Returns array of artists sorted based on
   # current sorting method.
-  sortedDoctors = (nodes,links) ->
+  sortedPractices = (nodes,links) ->
     practices = []
     if sort == "links"
       counts = {}

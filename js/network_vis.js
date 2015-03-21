@@ -95,7 +95,7 @@ RadialPlacement = function() {
 };
 
 Network = function() {
-  var allData, charge, curLinksData, curNodesData, filter, filterLinks, filterNodes, force, forceTick, groupCenters, height, hideDetails, layout, link, linkedByIndex, linksG, mapNodes, moveToRadialLayout, neighboring, network, node, nodeColors, nodeCounts, nodesG, radialTick, setFilter, setLayout, setupData, showDetails, sort, sortedDoctors, strokeFor, tooltip, update, updateCenters, updateLinks, updateNodes, width;
+  var allData, charge, curLinksData, curNodesData, filter, filterLinks, filterNodes, force, forceTick, groupCenters, height, hideDetails, layout, link, linkedByIndex, linksG, mapNodes, moveToRadialLayout, neighboring, network, node, nodeColors, nodeCounts, nodesG, radialTick, setFilter, setLayout, setupData, showDetails, sort, sortedPractices, strokeFor, tooltip, update, updateCenters, updateLinks, updateNodes, width;
   width = 960;
   height = 800;
   allData = [];
@@ -108,7 +108,6 @@ Network = function() {
   link = null;
   layout = "force";
   filter = "all";
-  sort = "songs";
   groupCenters = null;
   force = d3.layout.force();
   nodeColors = d3.scale.category20();
@@ -216,22 +215,22 @@ Network = function() {
   filterNodes = function(allNodes) {
     var all_referrals, cutoff, filteredNodes;
     filteredNodes = allNodes;
-    if (filter === "more active" || filter === "less active") {
+    if (filter === "more-active" || filter === "less-active") {
       all_referrals = allNodes.map(function(d) {
         return d.total_referrals;
       }).sort(d3.ascending);
       cutoff = d3.quantile(all_referrals, 0.5);
       filteredNodes = allNodes.filter(function(n) {
-        if (filter === "more active") {
+        if (filter === "more-active") {
           return n.total_referrals > cutoff;
-        } else if (filter === "less active") {
+        } else if (filter === "less-active") {
           return n.total_referrals <= cutoff;
         }
       });
     }
     return filteredNodes;
   };
-  sortedDoctors = function(nodes, links) {
+  sortedPractices = function(nodes, links) {
     var counts, practices;
     practices = [];
     if (sort === "links") {
