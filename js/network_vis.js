@@ -1,4 +1,5 @@
-var Network, RadialPlacement, activate, root;
+var Network, RadialPlacement, activate, root, doctor;
+;
 
 root = typeof exports !== "undefined" && exports !== null ? exports : this;
 
@@ -97,7 +98,7 @@ RadialPlacement = function() {
 Network = function() {
   var allData, charge, curLinksData, curNodesData, filter, filterLinks, filterNodes, force, forceTick, groupCenters, height, hideDetails, layout, link, linkedByIndex, linksG, mapNodes, moveToRadialLayout, neighboring, network, node, nodeColors, nodeCounts, nodesG, radialTick, setFilter, setLayout, setupData, showDetails, sort, sortedPractices, strokeFor, tooltip, update, updateCenters, updateLinks, updateNodes, width;
   width = 960;
-  height = 800;
+  height = 750;
   allData = [];
   curLinksData = [];
   curNodesData = [];
@@ -107,10 +108,11 @@ Network = function() {
   node = null;
   link = null;
   layout = "force";
-  filter = "all";
+  filter = "no-baruch";
   groupCenters = null;
   force = d3.layout.force();
   nodeColors = d3.scale.category20();
+  colorsForLegend = [];
   tooltip = Tooltip("vis-tooltip", 230);
   charge = function(node) {
     return -Math.pow(node.radius, 2.0) / 2;
@@ -158,11 +160,6 @@ Network = function() {
     setFilter(newFilter);
     return update();
   };
-  network.toggleSort = function(newSort) {
-    force.stop();
-    setSort(newSort);
-    return update();
-  };
   network.updateData = function(newData) {
     allData = setupData(newData);
     link.remove();
@@ -174,7 +171,7 @@ Network = function() {
     countExtent = d3.extent(data.nodes, function(d) {
       return d.total_referrals;
     });
-    circleRadius = d3.scale.sqrt().range([3, 12]).domain(countExtent);
+    circleRadius = d3.scale.sqrt().range([3, 36]).domain(countExtent);
     data.nodes.forEach(function(n) {
       var randomnumber;
       n.x = randomnumber = Math.floor(Math.random() * width);
@@ -215,17 +212,21 @@ Network = function() {
   filterNodes = function(allNodes) {
     var all_referrals, cutoff, filteredNodes;
     filteredNodes = allNodes;
-    if (filter === "more-active" || filter === "less-active") {
+    if (filter === "most-active") {
       all_referrals = allNodes.map(function(d) {
         return d.total_referrals;
       }).sort(d3.ascending);
       cutoff = d3.quantile(all_referrals, 0.5);
       filteredNodes = allNodes.filter(function(n) {
-        if (filter === "more-active") {
-          return n.total_referrals > cutoff;
-        } else if (filter === "less-active") {
-          return n.total_referrals <= cutoff;
-        }
+        return n.total_referrals > cutoff;
+      });
+    } else if (filter === "no-baruch") {
+      filteredNodes = allNodes.filter(function(n) {
+        return n.name != "Howard Baruch";
+      });
+    } else if (filter === "no-premier") {
+      filteredNodes = allNodes.filter(function(n) {
+        return n.practice != "Premier Orthopaedics" || n.name.toLowerCase().split(" ")[1] == doctor;
       });
     }
     return filteredNodes;
@@ -317,7 +318,7 @@ Network = function() {
   setLayout = function(newLayout) {
     layout = newLayout;
     if (layout === "force") {
-      return force.on("tick", forceTick).charge(-200).linkDistance(50);
+      return force.on("tick", forceTick).charge(-500).linkDistance(150);
     } else if (layout === "radial") {
       return force.on("tick", radialTick).charge(charge);
     }
@@ -364,7 +365,7 @@ Network = function() {
     };
   };
   strokeFor = function(d) {
-    return d3.rgb(nodeColors(d.practice)).darker().toString();
+    return d3.rgb(nodeColors(d.specialty)).darker().toString();
   };
   showDetails = function(d, i) {
     var content;
@@ -372,6 +373,7 @@ Network = function() {
     content += '<hr class="tooltip-hr">';
     content += '<p class="main">' + d.practice + '</span></p>';
     content += '<p class="main">' + d.specialty + '</span></p>';
+    content += '<br><p class="main">referrals in this network: ' + d.total_referrals + '</span></p>';
     tooltip.showTooltip(content, d3.event);
     if (link) {
       link.attr("stroke", function(l) {
@@ -433,6 +435,7 @@ activate = function(group, link) {
 $(function() {
   var myNetwork;
   myNetwork = Network();
+  doctor = "baruch";
   d3.selectAll("#layouts a").on("click", function(d) {
     var newLayout;
     newLayout = d3.select(this).attr("id");
@@ -446,13 +449,12 @@ $(function() {
     return myNetwork.toggleFilter(newFilter);
   });
   $("#doctor_select").on("change", function(e) {
-    var doctorFile;
-    doctorFile = $(this).val();
-    return d3.json("data/" + doctorFile, function(json) {
+    doctor = $(this).val();
+    return d3.json("data/"+doctor+".json", function(json) {
       return myNetwork.updateData(json);
     });
   });
-  return d3.json("data/doctors.json", function(json) {
+  return d3.json("data/"+doctor+".json", function(json) {
     return myNetwork("#vis", json);
   });
 });

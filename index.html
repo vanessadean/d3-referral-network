@@ -13,32 +13,32 @@
     <div class="container">
       <header>
       <h1>The MedText Doctor Referral Network</h1>
-      <p>Select a doctor from the drop down menu below to see a representation of his or her referral network. The size of each node represents the relative total number of referrals that doctor has sent or received.</p>
+      <p>Select a doctor from the drop down menu below to see a representation of his or her referral network. The size of each node represents the total number of referrals that doctor has sent or received within the network.</p>
       </header>
 
       <div id="doctor_selection" class="control">
         <h3>Doctor</h3>
         <select id="doctor_select">
-          <option value="baruch.json">Dr Baruch</option>
-          <option value="corradino.json">Dr Corradino</option>
-          <option value="dorri.json">Dr Dorri</option>
-          <option value="groves.json">Dr Groves</option>
-          <option value="zelnik.json">Dr Zelnik</option>
-          <option value="drey.json">Dr Drey</option>
+          <option value="baruch">Dr. Baruch</option>
+          <option value="corradino">Dr. Corradino</option>
+          <option value="dorri">Dr. Dorri</option>
+          <option value="groves">Dr. Groves</option>
+          <option value="zelnik">Dr. Zelnik</option>
+          <option value="drey">Dr. Drey</option>
+          <option value="all_doctors">All Doctors</option>
         </select>
       </div>
 
       <div id="layouts" class="control">
         <h3>Layout</h3>
-        <a id="force" class="active">Force Directed</a>
-        <a id="radial">Practices</a>
+        <a id="force" class="active">Grouped by Doctor</a>
+        <a id="radial">Grouped by Practice</a>
       </div>
 
       <div id="filters" class="control">
         <h3>Filter</h3>
         <a id="all" class="active">All</a>
-        <a id="more-active">More Active</a>
-        <a id="less-active">Less Active</a>
+        <a id="no-premier">Excluding Links to Premier Orthopaedics</a>
       </div>
 
       <div id="main" role="main">
