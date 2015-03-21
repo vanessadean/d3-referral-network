@@ -1,3 +1,3 @@
 #The MedText Referral Network
 
-A d3 visualization.
+The deployed d3 visualization can be found here: http://vanessadean.github.io/d3-referral-network/.
