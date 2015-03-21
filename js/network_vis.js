@@ -220,13 +220,13 @@ Network = function() {
       filteredNodes = allNodes.filter(function(n) {
         return n.total_referrals > cutoff;
       });
-    } else if (filter === "no-baruch") {
-      filteredNodes = allNodes.filter(function(n) {
-        return n.name != "Howard Baruch";
-      });
     } else if (filter === "no-premier") {
       filteredNodes = allNodes.filter(function(n) {
         return n.practice != "Premier Orthopaedics" || n.name.toLowerCase().split(" ")[1] == doctor;
+      });
+    } else if (filter === "premier-only") {
+      filteredNodes = allNodes.filter(function(n) {
+        return n.practice == "Premier Orthopaedics";
       });
     }
     return filteredNodes;
