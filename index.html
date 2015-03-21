@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Referral Network</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+      <h1>The MedText Doctor Referral Network</h1>
+      <p>Select a doctor from the drop down menu below to see a representation of his or her referral network. The size of each node represents the relative total number of referrals that doctor has sent or received.</p>
+      </header>
+
+      <div id="doctor_selection" class="control">
+        <h3>Doctor</h3>
+        <select id="doctor_select">
+          <option value="Howard Baruch">Dr Baruch</option>
+          <option value="Christine Corradino">Dr Corradino</option>
+          <option value="Mohammad Dorri">Dr Dorri</option>
+          <option value="Danielle Groves">Dr Groves</option>
+          <option value="Danielle Zelnik">Dr Zelnik</option>
+          <option value="Iris Drey">Dr Drey</option>
+        </select>
+      </div>
+
+      <div id="layouts" class="control">
+        <h3>Layout</h3>
+        <a id="force" class="active">Force Directed</a>
+        <a id="radial">Practices</a>
+      </div>
+      <div id="filters" class="control">
+        <h3>Filter</h3>
+        <a id="all" class="active">All</a>
+        <a id="more-active">Popular</a>
+        <a id="less-active">Obscure</a>
+      </div>
+
+      <div id="main" role="main">
+        <div id="vis"></div>
+      </div>
+    </div>
+
+    <script src="js/d3.min.js"></script>
+    <script src="js/Tooltip.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="js/network_vis.js"></script>
+  </body>
+</html>
