@@ -19,6 +19,204 @@
       "total_referrals": 292
     },
     {
+      "name": "Sean Strang",
+      "practice": "Kipnis",
+      "specialty": "Physical Therapy",
+      "total_referrals": 94
+    },
+    {
+      "name": "RadNet Inc.",
+      "practice": "Diagnostic Radiology Associates",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 1574
+    },
+    {
+      "name": "Yesenia  Diaz",
+      "practice": "Diagnostic Radiology Associates",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 71
+    },
+    {
+      "name": "Olga Chepkunov",
+      "practice": "Redi Diagnostics",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 315
+    },
+    {
+      "name": "Michael Lenart",
+      "practice": "Ivy Rehab",
+      "specialty": "Physical Therapy",
+      "total_referrals": 771
+    },
+    {
+      "name": "No Led",
+      "practice": "No Practice",
+      "specialty": "No Specialty",
+      "total_referrals": 409
+    },
+    {
+      "name": "SportsMed PT",
+      "practice": "SportsMed Physical Therapy",
+      "specialty": "Physical Therapy",
+      "total_referrals": 38
+    },
+    {
+      "name": "MICHAEL  DISTEFANO",
+      "practice": "DR. MICHAEL DISTEFANO ",
+      "specialty": "Orthopedic Surgery",
+      "total_referrals": 1
+    },
+    {
+      "name": "Iyad Baker",
+      "practice": "Riverside Medical Group",
+      "specialty": "Internal Medicine",
+      "total_referrals": 184
+    },
+    {
+      "name": "Peter Ponzini",
+      "practice": "SportsMed Physical Therapy",
+      "specialty": "Physical Therapy",
+      "total_referrals": 8
+    },
+    {
+      "name": "Frank Scerbo",
+      "practice": "Scerbo Physical Therapy and Sports Rehabilitation",
+      "specialty": "Physical Therapy",
+      "total_referrals": 6
+    },
+    {
+      "name": "Rich Romano",
+      "practice": "Kessler Rehabilitation Center",
+      "specialty": "Physical Therapy",
+      "total_referrals": 243
+    },
+    {
+      "name": "Gino Ramundo",
+      "practice": "Comprehensive Health Associates",
+      "specialty": "Chiropractic",
+      "total_referrals": 499
+    },
+    {
+      "name": "Ravi Venkataraman",
+      "practice": "Pain Centers of America",
+      "specialty": "Anesthesiology",
+      "total_referrals": 3
+    },
+    {
+      "name": "Ken Ermann",
+      "practice": "Dr. K. M. Ermann",
+      "specialty": "Chiropractic",
+      "total_referrals": 18
+    },
+    {
+      "name": "Michael Kryagin",
+      "practice": "EmergiMed",
+      "specialty": "Physical Therapy",
+      "total_referrals": 341
+    },
+    {
+      "name": "Nikki Lombardi",
+      "practice": "SportsCare Institute",
+      "specialty": "Physical Therapy",
+      "total_referrals": 560
+    },
+    {
+      "name": "Steve Bontempo",
+      "practice": "Paramus Medical Imaging",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 24
+    },
+    {
+      "name": "Bob Zeyda",
+      "practice": "BioDynamics",
+      "specialty": "Durable Medical Equip.",
+      "total_referrals": 178
+    },
+    {
+      "name": "Steve Conte",
+      "practice": "Rochelle Park Medical Imaging",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 8
+    },
+    {
+      "name": "Albert Khalaf",
+      "practice": "SportsMed Physical Therapy",
+      "specialty": "Physical Therapy",
+      "total_referrals": 46
+    },
+    {
+      "name": "CALDWELL MONTCLAIR RADIOLOGY",
+      "practice": "MONTCLAIR RADIOLOGY",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 14
+    },
+    {
+      "name": "DMI DMI",
+      "practice": "DMI",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 1
+    },
+    {
+      "name": "Nalini Prasad",
+      "practice": "Nalini Prasad MD",
+      "specialty": "Neurology",
+      "total_referrals": 118
+    },
+    {
+      "name": "MEDICAL & MOLECULAR IMAGING OF WAYNE",
+      "practice": "MEDICAL & MOLECULAR IMAGING OF WAYNE",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 2
+    },
+    {
+      "name": "Robin Heins",
+      "practice": "Medical Dispute Resolution LLC",
+      "specialty": "Workers Compensation",
+      "total_referrals": 1
+    },
+    {
+      "name": "Clara Mass Clara Maas",
+      "practice": "CLARAMASS",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 10
+    },
+    {
+      "name": "Carl Gargiulo",
+      "practice": "Strulowitz & Gargiulo",
+      "specialty": "Physical Therapy",
+      "total_referrals": 224
+    },
+    {
+      "name": "Bert Lee",
+      "practice": "Ridgefield Imaging Center",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 493
+    },
+    {
+      "name": "Ewelina Taszyniec",
+      "practice": "TheraPhysical",
+      "specialty": "Physical Therapy",
+      "total_referrals": 5
+    },
+    {
+      "name": "Michael Kailas",
+      "practice": "Michael G. Kailas MD",
+      "specialty": "Neurology",
+      "total_referrals": 2
+    },
+    {
+      "name": "Melissa Morgenstond",
+      "practice": "Union Medical Imaging",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 1
+    },
+    {
+      "name": "RICHARD HOLSMAN",
+      "practice": "HOLSMAN PHYSICAL THERAPY",
+      "specialty": "Physical Therapy",
+      "total_referrals": 1
+    },
+    {
       "name": "Premier Surgery",
       "practice": "Premier Orthopaedics",
       "specialty": "No Specialty",
@@ -31,148 +229,10 @@
       "total_referrals": 1294
     },
     {
-      "name": "Phillip Meneses",
-      "practice": "EmergiMed",
-      "specialty": "No Specialty",
-      "total_referrals": 128
-    },
-    {
-      "name": "Michael Kryagin",
-      "practice": "EmergiMed",
-      "specialty": "Physical Therapy",
-      "total_referrals": 341
-    },
-    {
-      "name": "Jack Atzmon",
-      "practice": "NJ Back",
-      "specialty": "Chiropractic",
-      "total_referrals": 19
-    },
-    {
-      "name": "Mohammad Dorri",
-      "practice": "Premier Orthopaedics",
-      "specialty": "Phys. Med. & Rehab",
-      "total_referrals": 752
-    },
-    {
-      "name": "Premier Concierge",
-      "practice": "Premier Orthopaedics",
-      "specialty": "No Specialty",
-      "total_referrals": 428
-    },
-    {
-      "name": "Yesenia  Diaz",
-      "practice": "Diagnostic Radiology Associates",
+      "name": "RAMIC MEDICAL IMAGING",
+      "practice": "RAMIC MEDICAL IMAGING",
       "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 71
-    },
-    {
-      "name": "Danielle Zelnik",
-      "practice": "Premier Orthopaedics",
-      "specialty": "Phys. Med. & Rehab",
-      "total_referrals": 892
-    },
-    {
-      "name": "Bert Lee",
-      "practice": "Ridgefield Imaging Center",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 493
-    },
-    {
-      "name": "Nikki Lombardi",
-      "practice": "SportsCare Institute",
-      "specialty": "Physical Therapy",
-      "total_referrals": 560
-    },
-    {
-      "name": "Sean Strang",
-      "practice": "Kipnis",
-      "specialty": "Physical Therapy",
-      "total_referrals": 94
-    },
-    {
-      "name": "William De Iasi",
-      "practice": "MedText Sales",
-      "specialty": "MedText Sales",
-      "total_referrals": 7
-    },
-    {
-      "name": "Michael Lenart",
-      "practice": "Ivy Rehab",
-      "specialty": "Physical Therapy",
-      "total_referrals": 771
-    },
-    {
-      "name": "Nalini Prasad",
-      "practice": "Nalini Prasad MD",
-      "specialty": "Neurology",
-      "total_referrals": 118
-    },
-    {
-      "name": "Olga Chepkunov",
-      "practice": "Redi Diagnostics",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 315
-    },
-    {
-      "name": "East Coast Fitness",
-      "practice": "East Coast Fitness",
-      "specialty": "Physical Therapy",
-      "total_referrals": 73
-    },
-    {
-      "name": "No Led",
-      "practice": "No Practice",
-      "specialty": "No Specialty",
-      "total_referrals": 409
-    },
-    {
-      "name": "Bob Zeyda",
-      "practice": "BioDynamics",
-      "specialty": "Durable Medical Equip.",
-      "total_referrals": 178
-    },
-    {
-      "name": "Barry Finkelstein",
-      "practice": "Premier Orthopaedics",
-      "specialty": "Podiatry",
-      "total_referrals": 125
-    },
-    {
-      "name": "Rich Romano",
-      "practice": "Kessler Rehabilitation Center",
-      "specialty": "Physical Therapy",
-      "total_referrals": 243
-    },
-    {
-      "name": "Iyad Baker",
-      "practice": "Riverside Medical Group",
-      "specialty": "Internal Medicine",
-      "total_referrals": 184
-    },
-    {
-      "name": "Izzy Borenstein",
-      "practice": "Therapeutics Unlimited",
-      "specialty": "Physical Therapy",
-      "total_referrals": 6
-    },
-    {
-      "name": "Gino Ramundo",
-      "practice": "Comprehensive Health Associates",
-      "specialty": "Chiropractic",
-      "total_referrals": 499
-    },
-    {
-      "name": "Alpha Imaging",
-      "practice": "Alpha MRI & Diagnostic Imaging",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 6
-    },
-    {
-      "name": "Mark Gurland",
-      "practice": "Gurland & Effron-Gurland MD's",
-      "specialty": "No Specialty",
-      "total_referrals": 12
+      "total_referrals": 1
     },
     {
       "name": "Valskys Rytis",
@@ -181,94 +241,10 @@
       "total_referrals": 6
     },
     {
-      "name": "Lee Raymond",
-      "practice": "IWP",
-      "specialty": "Pharmacy (Incl. Compounding)",
-      "total_referrals": 12
-    },
-    {
-      "name": "RadNet Inc.",
-      "practice": "Diagnostic Radiology Associates",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 1574
-    },
-    {
-      "name": "Leiza Redi",
-      "practice": "Redi Diagnostics",
+      "name": "Phillip Meneses",
+      "practice": "EmergiMed",
       "specialty": "No Specialty",
-      "total_referrals": 6
-    },
-    {
-      "name": "Ewelina Taszyniec",
-      "practice": "TheraPhysical",
-      "specialty": "Physical Therapy",
-      "total_referrals": 5
-    },
-    {
-      "name": "WARREN BORRES",
-      "practice": "DYNAMIC CARE PT",
-      "specialty": "Physical Therapy",
-      "total_referrals": 14
-    },
-    {
-      "name": "Carl Gargiulo",
-      "practice": "Strulowitz & Gargiulo",
-      "specialty": "Physical Therapy",
-      "total_referrals": 224
-    },
-    {
-      "name": "John Capo",
-      "practice": "North Jersey Orthopedic Institute",
-      "specialty": "Orthopedic Surgery",
-      "total_referrals": 6
-    },
-    {
-      "name": "Feodor Sakatch",
-      "practice": "Genesis Health Associates",
-      "specialty": "Chiropractic",
-      "total_referrals": 165
-    },
-    {
-      "name": "PMC Radiology",
-      "practice": "Palisades Medical Center",
-      "specialty": "Physical Therapy",
-      "total_referrals": 207
-    },
-    {
-      "name": "JERSEY CITY MEDICAL CENTER JERSEY CITY MEDICAL CENTER",
-      "practice": "JERSEY CITY MEDICAL CENTER",
-      "specialty": "No Specialty",
-      "total_referrals": 36
-    },
-    {
-      "name": "hoboken hoboken university",
-      "practice": "hoboken university",
-      "specialty": "Physical Therapy",
-      "total_referrals": 10
-    },
-    {
-      "name": "Ronald Lombardi",
-      "practice": "SportsCare Institute",
-      "specialty": "Physical Therapy",
-      "total_referrals": 33
-    },
-    {
-      "name": "mark decker",
-      "practice": "hudon radiology bayonne",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 1
-    },
-    {
-      "name": "HOSPITAL IN PATERSON ST. JOSEPH'S ",
-      "practice": "ST. JOSEPH'S HOSPITAL PATERSON",
-      "specialty": "No Specialty",
-      "total_referrals": 6
-    },
-    {
-      "name": "Christine Corradino",
-      "practice": "Premier Orthopaedics",
-      "specialty": "Orthopedic Surgery",
-      "total_referrals": 1621
+      "total_referrals": 128
     },
     {
       "name": "Mostafa El Khashab",
@@ -277,10 +253,190 @@
       "total_referrals": 98
     },
     {
-      "name": "Frank Liporace",
-      "practice": "NYU Orthopedics",
-      "specialty": "Orthopedic Surgery",
-      "total_referrals": 9
+      "name": "East Coast Fitness",
+      "practice": "East Coast Fitness",
+      "specialty": "Physical Therapy",
+      "total_referrals": 73
+    },
+    {
+      "name": "DELTA ORTHOPAEDICS",
+      "practice": "DELTA ORTHOPAEDIC",
+      "specialty": "Durable Medical Equip.",
+      "total_referrals": 25
+    },
+    {
+      "name": "RANDALL SLADE",
+      "practice": "DYNAMIC MEDICAL IMAGING",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 3
+    },
+    {
+      "name": "PMC Radiology",
+      "practice": "Palisades Medical Center",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 207
+    },
+    {
+      "name": "STAR MRI OF WAYNE",
+      "practice": "STAR MRI OF WAYNE",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 11
+    },
+    {
+      "name": "Carla Loaiza",
+      "practice": "All Care Health Associates",
+      "specialty": "Physical Therapy",
+      "total_referrals": 13
+    },
+    {
+      "name": "Feodor Sakatch",
+      "practice": "Genesis Health Associates",
+      "specialty": "Chiropractic",
+      "total_referrals": 165
+    },
+    {
+      "name": "Tomi Prvulovic",
+      "practice": "Healthspine and Anesthesia Institute",
+      "specialty": "Anesthesiology",
+      "total_referrals": 12
+    },
+    {
+      "name": "JERSEY CITY MEDICAL CENTER JERSEY CITY MEDICAL CENTER",
+      "practice": "JERSEY CITY MEDICAL CENTER",
+      "specialty": "No Specialty",
+      "total_referrals": 36
+    },
+    {
+      "name": "Justin Huist",
+      "practice": "Summit Hand and Upper Extremity",
+      "specialty": "No Specialty",
+      "total_referrals": 6
+    },
+    {
+      "name": "ravi tikoo",
+      "practice": "therapro",
+      "specialty": "Physical Therapy",
+      "total_referrals": 2
+    },
+    {
+      "name": "Robert Firetto",
+      "practice": "Robert Firetto, DC",
+      "specialty": "Chiropractic",
+      "total_referrals": 15
+    },
+    {
+      "name": "Andrew Perrone",
+      "practice": "Perrone Wellness Center",
+      "specialty": "Chiropractic",
+      "total_referrals": 65
+    },
+    {
+      "name": "Radiology Center Radiology Center",
+      "practice": "Radiology Center",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 2
+    },
+    {
+      "name": "Gregory Zaccone",
+      "practice": "Spectrum Physical Therapy & Athletic Training",
+      "specialty": "Physical Therapy",
+      "total_referrals": 35
+    },
+    {
+      "name": "BINOD SINHA",
+      "practice": "SINHA",
+      "specialty": "Pain Management",
+      "total_referrals": 1
+    },
+    {
+      "name": null,
+      "practice": "Howard Baruch",
+      "specialty": "Premier Orthopaedics",
+      "total_referrals": 3
+    },
+    {
+      "name": "TOTOWA OPEN MRI ",
+      "practice": "OPEN MRI IN TOTOWA ",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 12
+    },
+    {
+      "name": "Hackensack Hospital",
+      "practice": "Hackensack Hospital",
+      "specialty": "No Specialty",
+      "total_referrals": 29
+    },
+    {
+      "name": "Adrienne Dimperio",
+      "practice": "Excel Physical Therapy",
+      "specialty": "No Specialty",
+      "total_referrals": 3
+    },
+    {
+      "name": "Steve Lequerica",
+      "practice": "Neurology Group North Jersey",
+      "specialty": "Neurology",
+      "total_referrals": 4
+    },
+    {
+      "name": "Wayne Berberian",
+      "practice": "Wayne Berberian, MD",
+      "specialty": "No Specialty",
+      "total_referrals": 3
+    },
+    {
+      "name": "Fairlawn Radiology Center",
+      "practice": "Radiology Center of Fairlawn",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 15
+    },
+    {
+      "name": "TU Rehab",
+      "practice": "Therapeutics Unlimited",
+      "specialty": "Physical Therapy",
+      "total_referrals": 89
+    },
+    {
+      "name": "Mark Hoffman",
+      "practice": "Morlot Physical Therapy & Rehabilitation",
+      "specialty": "Physical Therapy",
+      "total_referrals": 24
+    },
+    {
+      "name": "HOSPITAL IN PATERSON ST. JOSEPH'S ",
+      "practice": "ST. JOSEPH'S HOSPITAL PATERSON",
+      "specialty": "No Specialty",
+      "total_referrals": 6
+    },
+    {
+      "name": "PMC Physical Therapy",
+      "practice": "Palisades Medical Center",
+      "specialty": "Physical Therapy",
+      "total_referrals": 72
+    },
+    {
+      "name": "HACKENSACK RADIOLOGY",
+      "practice": "HACKENSACK RADIOLOGY GROUP",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 1
+    },
+    {
+      "name": "MICHELLE TAWIL",
+      "practice": "TAWIL PHYSICAL THERAPY",
+      "specialty": "Physical Therapy",
+      "total_referrals": 2
+    },
+    {
+      "name": "HOSPITAL ST. MARY'S ",
+      "practice": "ST. MARY'S HOSPITAL",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 1
+    },
+    {
+      "name": "HOSPITAL HOBOKEN ",
+      "practice": "HOBOKEN HOSPITAL PHYSICAL THERAPY",
+      "specialty": "Physical Therapy",
+      "total_referrals": 13
     },
     {
       "name": "WAYNE ST. JOSEPH'S HOSPITAL",
@@ -295,22 +451,22 @@
       "total_referrals": 4
     },
     {
-      "name": "Demo MedText",
-      "practice": "MedText Sales",
-      "specialty": "No Specialty",
-      "total_referrals": 1
+      "name": "Jason Baynes",
+      "practice": "Health East",
+      "specialty": "Orthopedic Surgery",
+      "total_referrals": 4
     },
     {
-      "name": "Tomi Prvulovic",
-      "practice": "Healthspine and Anesthesia Institute",
-      "specialty": "Anesthesiology",
-      "total_referrals": 12
-    },
-    {
-      "name": "TU Rehab",
-      "practice": "Therapeutics Unlimited",
+      "name": "WARREN BORRES",
+      "practice": "DYNAMIC CARE PT",
       "specialty": "Physical Therapy",
-      "total_referrals": 89
+      "total_referrals": 14
+    },
+    {
+      "name": "Nutley Montclair Radiology",
+      "practice": "Nutley Montclair Radiology",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 2
     },
     {
       "name": "David Rabe",
@@ -319,10 +475,292 @@
       "total_referrals": 26
     },
     {
-      "name": "Andrew Perrone",
-      "practice": "Perrone Wellness Center",
+      "name": "OPEN MRI  GARDEN STATE",
+      "practice": "GARDEN STATE OPEN MRI ",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 1
+    },
+    {
+      "name": "HOLLY NAME MEDICAL CENTER",
+      "practice": "HOLLY NAME MEDICAL CENTER",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 4
+    },
+    {
+      "name": "Jack Atzmon",
+      "practice": "NJ Back",
       "specialty": "Chiropractic",
+      "total_referrals": 19
+    },
+    {
+      "name": "Mohammad Dorri",
+      "practice": "Premier Orthopaedics",
+      "specialty": "Phys. Med. & Rehab",
+      "total_referrals": 752
+    },
+    {
+      "name": "MEGAN VARELA",
+      "practice": "ROBERT WOOD JOHNSON",
+      "specialty": "Physical Therapy",
+      "total_referrals": 1
+    },
+    {
+      "name": "Lee Raymond",
+      "practice": "IWP",
+      "specialty": "Pharmacy (Incl. Compounding)",
+      "total_referrals": 12
+    },
+    {
+      "name": "Moe Abtahi",
+      "practice": "Family Chiropractic Center",
+      "specialty": "Chiropractic",
+      "total_referrals": 12
+    },
+    {
+      "name": "Orthotics and  Prosthetics",
+      "practice": "AlliedOP",
+      "specialty": "Durable Medical Equip.",
+      "total_referrals": 43
+    },
+    {
+      "name": "Crystal Run Health Care Crystal Run Health Care",
+      "practice": "Crystal Run Health Care",
+      "specialty": "No Specialty",
+      "total_referrals": 1
+    },
+    {
+      "name": "Omnitherapy Center Omnitherapy Center",
+      "practice": "Omnitherapy Center",
+      "specialty": "Physical Therapy",
+      "total_referrals": 4
+    },
+    {
+      "name": "Premier Concierge",
+      "practice": "Premier Orthopaedics",
+      "specialty": "No Specialty",
+      "total_referrals": 428
+    },
+    {
+      "name": "William De Iasi",
+      "practice": "MedText Sales",
+      "specialty": "MedText Sales",
+      "total_referrals": 7
+    },
+    {
+      "name": "Danielle Zelnik",
+      "practice": "Premier Orthopaedics",
+      "specialty": "Phys. Med. & Rehab",
+      "total_referrals": 892
+    },
+    {
+      "name": "DIAGNOSTIC IMAGING PROGRESSIVE ",
+      "practice": "PROGRESSIVE DIAGNOSTIC IMAGING ",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 2
+    },
+    {
+      "name": "Izzy Borenstein",
+      "practice": "Therapeutics Unlimited",
+      "specialty": "Physical Therapy",
+      "total_referrals": 6
+    },
+    {
+      "name": "Alpha Imaging",
+      "practice": "Alpha MRI & Diagnostic Imaging",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 6
+    },
+    {
+      "name": "Pat Czorniewy",
+      "practice": "EmergiMed",
+      "specialty": "No Specialty",
+      "total_referrals": 4
+    },
+    {
+      "name": "Ronald Lombardi",
+      "practice": "SportsCare Institute",
+      "specialty": "Physical Therapy",
+      "total_referrals": 33
+    },
+    {
+      "name": "Avery Eisenrich",
+      "practice": "Castle Hill",
+      "specialty": "No Specialty",
       "total_referrals": 65
+    },
+    {
+      "name": "Duen Shih",
+      "practice": "Duen Shih, MD",
+      "specialty": "No Specialty",
+      "total_referrals": 3
+    },
+    {
+      "name": "Sam Samoohi",
+      "practice": "Suretox Laboratory",
+      "specialty": "No Specialty",
+      "total_referrals": 1
+    },
+    {
+      "name": "Fair Lawn Diagnostic Imaging Center",
+      "practice": "Fair Lawn Diagnostic Imaging Center",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 2
+    },
+    {
+      "name": "Barry Finkelstein",
+      "practice": "Premier Orthopaedics",
+      "specialty": "Podiatry",
+      "total_referrals": 125
+    },
+    {
+      "name": "Mark Gurland",
+      "practice": "Gurland & Effron-Gurland MD's",
+      "specialty": "No Specialty",
+      "total_referrals": 12
+    },
+    {
+      "name": "Leiza Redi",
+      "practice": "Redi Diagnostics",
+      "specialty": "No Specialty",
+      "total_referrals": 6
+    },
+    {
+      "name": "John Capo",
+      "practice": "North Jersey Orthopedic Institute",
+      "specialty": "Orthopedic Surgery",
+      "total_referrals": 6
+    },
+    {
+      "name": "hoboken hoboken university",
+      "practice": "hoboken university",
+      "specialty": "Physical Therapy",
+      "total_referrals": 10
+    },
+    {
+      "name": "mark decker",
+      "practice": "hudon radiology bayonne",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 1
+    },
+    {
+      "name": "Christine Corradino",
+      "practice": "Premier Orthopaedics",
+      "specialty": "Orthopedic Surgery",
+      "total_referrals": 1621
+    },
+    {
+      "name": "Pat Mende",
+      "practice": "BioDynamics",
+      "specialty": "No Specialty",
+      "total_referrals": 3
+    },
+    {
+      "name": "YAIR KISSIN",
+      "practice": "KISSIN",
+      "specialty": "Orthopedic Surgery",
+      "total_referrals": 9
+    },
+    {
+      "name": "IMAGING ST. JOSEPH'S AMBULATORY",
+      "practice": "ST. JOSEPH'S AMBULATORY IMAGING ",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 4
+    },
+    {
+      "name": "Frank Liporace",
+      "practice": "NYU Orthopedics",
+      "specialty": "Orthopedic Surgery",
+      "total_referrals": 9
+    },
+    {
+      "name": "ORTHOPEDIC DELTA",
+      "practice": "DELTA ORTHOPEDIC",
+      "specialty": "Durable Medical Equip.",
+      "total_referrals": 7
+    },
+    {
+      "name": "JOHN BUCO",
+      "practice": "HUDSON WELLNESS",
+      "specialty": "Physical Therapy",
+      "total_referrals": 2
+    },
+    {
+      "name": "Kerri Czorniewy",
+      "practice": "Ridgefield Imaging Center",
+      "specialty": "No Specialty",
+      "total_referrals": 5
+    },
+    {
+      "name": "BORIS KATZ",
+      "practice": "LIGHT TOUCH REHABILITATION",
+      "specialty": "Physical Therapy",
+      "total_referrals": 2
+    },
+    {
+      "name": "Susan Pellegrino",
+      "practice": "Comprehensive Health Associates",
+      "specialty": "Chiropractic",
+      "total_referrals": 2
+    },
+    {
+      "name": "Boris Kavalechik",
+      "practice": "Bella Physical Therapy",
+      "specialty": "Physical Therapy",
+      "total_referrals": 14
+    },
+    {
+      "name": "Stuart Katz",
+      "practice": "Garden State Oral Surgery",
+      "specialty": "Oral Surgery/Dentist",
+      "total_referrals": 1
+    },
+    {
+      "name": "therapy rockland",
+      "practice": "rockland",
+      "specialty": "No Specialty",
+      "total_referrals": 3
+    },
+    {
+      "name": "MEDICAL PARK IMAGING ",
+      "practice": "MEDICAL PARK IMAGING ",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 3
+    },
+    {
+      "name": "TRINITAS DIAGNOSTIC ",
+      "practice": "TRINITAS DIAGNOSTIC IMAGING ",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 1
+    },
+    {
+      "name": "CarePlus Rehab",
+      "practice": "CarePlus Rehab LLC",
+      "specialty": "Physical Therapy",
+      "total_referrals": 1
+    },
+    {
+      "name": "MASSIMO NAPOLITANO",
+      "practice": "HUMC",
+      "specialty": "Vascular Surgery",
+      "total_referrals": 3
+    },
+    {
+      "name": "ESMAT EL HALIM",
+      "practice": "QUALITY CARE REHAB",
+      "specialty": "No Specialty",
+      "total_referrals": 1
+    },
+    {
+      "name": "Saifulla Chaudhary",
+      "practice": "Advanced Magnetic Imaging",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 3
+    },
+    {
+      "name": "Demo MedText",
+      "practice": "MedText Sales",
+      "specialty": "No Specialty",
+      "total_referrals": 1
     },
     {
       "name": "Daniel Harcsztark",
@@ -331,22 +769,10 @@
       "total_referrals": 5
     },
     {
-      "name": "Jason Baynes",
-      "practice": "Health East",
-      "specialty": "Orthopedic Surgery",
-      "total_referrals": 4
-    },
-    {
       "name": "MedText Invitation",
       "practice": "MedText Sales",
       "specialty": "No Specialty",
       "total_referrals": 5
-    },
-    {
-      "name": "Orthotics and  Prosthetics",
-      "practice": "AlliedOP",
-      "specialty": "Durable Medical Equip.",
-      "total_referrals": 43
     },
     {
       "name": "Family of Caring",
@@ -373,34 +799,10 @@
       "total_referrals": 16
     },
     {
-      "name": "Boris Kavalechik",
-      "practice": "Bella Physical Therapy",
-      "specialty": "Physical Therapy",
-      "total_referrals": 14
-    },
-    {
-      "name": "Avery Eisenrich",
-      "practice": "Castle Hill",
-      "specialty": "No Specialty",
-      "total_referrals": 65
-    },
-    {
       "name": "Rosemary Farrell",
       "practice": "Cross County Cardiology",
       "specialty": "Cardiology",
       "total_referrals": 9
-    },
-    {
-      "name": "Hackensack Hospital",
-      "practice": "Hackensack Hospital",
-      "specialty": "No Specialty",
-      "total_referrals": 29
-    },
-    {
-      "name": "Albert Khalaf",
-      "practice": "SportsMed Physical Therapy",
-      "specialty": "Physical Therapy",
-      "total_referrals": 46
     },
     {
       "name": "Demo Doctor",
@@ -409,28 +811,40 @@
       "total_referrals": 1
     },
     {
-      "name": "Michael Kailas",
-      "practice": "Michael G. Kailas MD",
-      "specialty": "Neurology",
-      "total_referrals": 2
-    },
-    {
       "name": "Iris Drey",
       "practice": "Premier Orthopaedics",
       "specialty": "Orthopedic Surgery",
       "total_referrals": 281
     },
     {
-      "name": "Steve Bontempo",
-      "practice": "Paramus Medical Imaging",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 24
+      "name": "quality quality care",
+      "practice": "quality care physical therapy",
+      "specialty": "Physical Therapy",
+      "total_referrals": 1
     },
     {
-      "name": "Ken Ermann",
-      "practice": "Dr. K. M. Ermann",
-      "specialty": "Chiropractic",
-      "total_referrals": 18
+      "name": "rehabilitation quality care",
+      "practice": "quality care ",
+      "specialty": "Physical Therapy",
+      "total_referrals": 3
+    },
+    {
+      "name": "A.G DIKENGIL",
+      "practice": "LYNDHURST RADIOLOGY",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 3
+    },
+    {
+      "name": "KARTHIK AGGARWAL",
+      "practice": "MRNJ",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 1
+    },
+    {
+      "name": "mri  hudson ",
+      "practice": "hudson mri",
+      "specialty": "MRI/X-RAY/CT/Etc",
+      "total_referrals": 1
     },
     {
       "name": "Marty Higgins",
@@ -445,46 +859,16 @@
       "total_referrals": 7
     },
     {
-      "name": "Moe Abtahi",
-      "practice": "Family Chiropractic Center",
-      "specialty": "Chiropractic",
-      "total_referrals": 12
-    },
-    {
-      "name": null,
-      "practice": "Howard Baruch",
-      "specialty": "Premier Orthopaedics",
-      "total_referrals": 3
-    },
-    {
       "name": "Thomas Ortiz,MD",
       "practice": "Forest Hill Family Health Associates",
       "specialty": "Internal Medicine",
       "total_referrals": 1
     },
     {
-      "name": "Robert Firetto",
-      "practice": "Robert Firetto, DC",
-      "specialty": "Chiropractic",
-      "total_referrals": 15
-    },
-    {
-      "name": "Steve Conte",
-      "practice": "Rochelle Park Medical Imaging",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 8
-    },
-    {
       "name": "Mary Ellen Redding",
       "practice": "Premier Orthopaedics",
       "specialty": "No Specialty",
       "total_referrals": 2
-    },
-    {
-      "name": "HOLLY NAME MEDICAL CENTER",
-      "practice": "HOLLY NAME MEDICAL CENTER",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 4
     },
     {
       "name": "Christophe Oliveira",
@@ -505,58 +889,16 @@
       "total_referrals": 1
     },
     {
-      "name": "Frank Scerbo",
-      "practice": "Scerbo Physical Therapy and Sports Rehabilitation",
-      "specialty": "Physical Therapy",
-      "total_referrals": 6
-    },
-    {
-      "name": "HOSPITAL HOBOKEN ",
-      "practice": "HOBOKEN HOSPITAL PHYSICAL THERAPY",
-      "specialty": "Physical Therapy",
-      "total_referrals": 13
-    },
-    {
-      "name": "YAIR KISSIN",
-      "practice": "KISSIN",
-      "specialty": "Orthopedic Surgery",
-      "total_referrals": 9
-    },
-    {
       "name": "Howard Kessler",
       "practice": "Union Imaging Center",
       "specialty": "MRI/X-RAY/CT/Etc",
       "total_referrals": 2
     },
     {
-      "name": "Mark Hoffman",
-      "practice": "Morlot Physical Therapy & Rehabilitation",
-      "specialty": "Physical Therapy",
-      "total_referrals": 24
-    },
-    {
-      "name": "MEDICAL & MOLECULAR IMAGING OF WAYNE",
-      "practice": "MEDICAL & MOLECULAR IMAGING OF WAYNE",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 2
-    },
-    {
-      "name": "SportsMed PT",
-      "practice": "SportsMed Physical Therapy",
-      "specialty": "Physical Therapy",
-      "total_referrals": 38
-    },
-    {
       "name": "Dave Del Vecchio",
       "practice": "Princeton Physical Therapy Group",
       "specialty": "Physical Therapy",
       "total_referrals": 2
-    },
-    {
-      "name": "Gregory Zaccone",
-      "practice": "Spectrum Physical Therapy & Athletic Training",
-      "specialty": "Physical Therapy",
-      "total_referrals": 35
     },
     {
       "name": "Joseph Benevenia",
@@ -583,22 +925,10 @@
       "total_referrals": 3
     },
     {
-      "name": "MEDICAL PARK IMAGING ",
-      "practice": "MEDICAL PARK IMAGING ",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 3
-    },
-    {
       "name": "Roman Kreyman",
       "practice": "Back to Health Chiro and Wellness",
       "specialty": "Chiropractic",
       "total_referrals": 1
-    },
-    {
-      "name": "PMC Physical Therapy",
-      "practice": "Palisades Medical Center",
-      "specialty": "Physical Therapy",
-      "total_referrals": 72
     },
     {
       "name": "THERAPY INDUSTRIAL",
@@ -607,64 +937,16 @@
       "total_referrals": 1
     },
     {
-      "name": "Carla Loaiza",
-      "practice": "All Care Health Associates",
-      "specialty": "Physical Therapy",
-      "total_referrals": 13
-    },
-    {
-      "name": "Clara Mass Clara Maas",
-      "practice": "CLARAMASS",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 10
-    },
-    {
       "name": "IMAGING OF BELLEVILLE PROGRESSIVE ",
       "practice": "PROGRESSIVE IMAGING OF BELLEVILLE",
       "specialty": "MRI/X-RAY/CT/Etc",
       "total_referrals": 1
     },
     {
-      "name": "Saifulla Chaudhary",
-      "practice": "Advanced Magnetic Imaging",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 3
-    },
-    {
       "name": "Joseph Kozel",
       "practice": "Joseph M Kozel MD",
       "specialty": "Internal Medicine",
       "total_referrals": 1
-    },
-    {
-      "name": "MICHELLE TAWIL",
-      "practice": "TAWIL PHYSICAL THERAPY",
-      "specialty": "Physical Therapy",
-      "total_referrals": 2
-    },
-    {
-      "name": "Pat Mende",
-      "practice": "BioDynamics",
-      "specialty": "No Specialty",
-      "total_referrals": 3
-    },
-    {
-      "name": "Justin Huist",
-      "practice": "Summit Hand and Upper Extremity",
-      "specialty": "No Specialty",
-      "total_referrals": 6
-    },
-    {
-      "name": "Pat Czorniewy",
-      "practice": "EmergiMed",
-      "specialty": "No Specialty",
-      "total_referrals": 4
-    },
-    {
-      "name": "ORTHOPEDIC DELTA",
-      "practice": "DELTA ORTHOPEDIC",
-      "specialty": "Durable Medical Equip.",
-      "total_referrals": 7
     },
     {
       "name": "HOSPITAL MOUNTAIN SIDE",
@@ -679,297 +961,15 @@
       "total_referrals": 3
     },
     {
-      "name": "JOHN BUCO",
-      "practice": "HUDSON WELLNESS",
-      "specialty": "Physical Therapy",
-      "total_referrals": 2
-    },
-    {
       "name": "Omar Baker",
       "practice": "Riverside Medical Group",
       "specialty": "Internal Medicine",
       "total_referrals": 1
     },
     {
-      "name": "MASSIMO NAPOLITANO",
-      "practice": "HUMC",
-      "specialty": "Vascular Surgery",
-      "total_referrals": 3
-    },
-    {
       "name": "TAMAR SOLOMON",
       "practice": "EVERYONE ACHIEVES SUCCESS THERAPY ",
       "specialty": "Physical Therapy",
-      "total_referrals": 1
-    },
-    {
-      "name": "Adrienne Dimperio",
-      "practice": "Excel Physical Therapy",
-      "specialty": "No Specialty",
-      "total_referrals": 3
-    },
-    {
-      "name": "TOTOWA OPEN MRI ",
-      "practice": "OPEN MRI IN TOTOWA ",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 12
-    },
-    {
-      "name": "Fair Lawn Diagnostic Imaging Center",
-      "practice": "Fair Lawn Diagnostic Imaging Center",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 2
-    },
-    {
-      "name": "RAMIC MEDICAL IMAGING",
-      "practice": "RAMIC MEDICAL IMAGING",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 1
-    },
-    {
-      "name": "DIAGNOSTIC IMAGING PROGRESSIVE ",
-      "practice": "PROGRESSIVE DIAGNOSTIC IMAGING ",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 2
-    },
-    {
-      "name": "CALDWELL MONTCLAIR RADIOLOGY",
-      "practice": "MONTCLAIR RADIOLOGY",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 14
-    },
-    {
-      "name": "Peter Ponzini",
-      "practice": "SportsMed Physical Therapy",
-      "specialty": "Physical Therapy",
-      "total_referrals": 8
-    },
-    {
-      "name": "IMAGING ST. JOSEPH'S AMBULATORY",
-      "practice": "ST. JOSEPH'S AMBULATORY IMAGING ",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 4
-    },
-    {
-      "name": "DELTA ORTHOPAEDICS",
-      "practice": "DELTA ORTHOPAEDIC",
-      "specialty": "Durable Medical Equip.",
-      "total_referrals": 25
-    },
-    {
-      "name": "MICHAEL  DISTEFANO",
-      "practice": "DR. MICHAEL DISTEFANO ",
-      "specialty": "Orthopedic Surgery",
-      "total_referrals": 1
-    },
-    {
-      "name": "RANDALL SLADE",
-      "practice": "DYNAMIC MEDICAL IMAGING",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 3
-    },
-    {
-      "name": "STAR MRI OF WAYNE",
-      "practice": "STAR MRI OF WAYNE",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 11
-    },
-    {
-      "name": "therapy rockland",
-      "practice": "rockland",
-      "specialty": "No Specialty",
-      "total_referrals": 3
-    },
-    {
-      "name": "Kerri Czorniewy",
-      "practice": "Ridgefield Imaging Center",
-      "specialty": "No Specialty",
-      "total_referrals": 5
-    },
-    {
-      "name": "BORIS KATZ",
-      "practice": "LIGHT TOUCH REHABILITATION",
-      "specialty": "Physical Therapy",
-      "total_referrals": 2
-    },
-    {
-      "name": "ravi tikoo",
-      "practice": "therapro",
-      "specialty": "Physical Therapy",
-      "total_referrals": 2
-    },
-    {
-      "name": "Susan Pellegrino",
-      "practice": "Comprehensive Health Associates",
-      "specialty": "Chiropractic",
-      "total_referrals": 2
-    },
-    {
-      "name": "MEGAN VARELA",
-      "practice": "ROBERT WOOD JOHNSON",
-      "specialty": "Physical Therapy",
-      "total_referrals": 1
-    },
-    {
-      "name": "Ravi Venkataraman",
-      "practice": "Pain Centers of America",
-      "specialty": "Anesthesiology",
-      "total_referrals": 3
-    },
-    {
-      "name": "Stuart Katz",
-      "practice": "Garden State Oral Surgery",
-      "specialty": "Oral Surgery/Dentist",
-      "total_referrals": 1
-    },
-    {
-      "name": "Fairlawn Radiology Center",
-      "practice": "Radiology Center of Fairlawn",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 15
-    },
-    {
-      "name": "Radiology Center Radiology Center",
-      "practice": "Radiology Center",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 2
-    },
-    {
-      "name": "BINOD SINHA",
-      "practice": "SINHA",
-      "specialty": "Pain Management",
-      "total_referrals": 1
-    },
-    {
-      "name": "quality quality care",
-      "practice": "quality care physical therapy",
-      "specialty": "Physical Therapy",
-      "total_referrals": 1
-    },
-    {
-      "name": "rehabilitation quality care",
-      "practice": "quality care ",
-      "specialty": "Physical Therapy",
-      "total_referrals": 3
-    },
-    {
-      "name": "TRINITAS DIAGNOSTIC ",
-      "practice": "TRINITAS DIAGNOSTIC IMAGING ",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 1
-    },
-    {
-      "name": "A.G DIKENGIL",
-      "practice": "LYNDHURST RADIOLOGY",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 3
-    },
-    {
-      "name": "DMI DMI",
-      "practice": "DMI",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 1
-    },
-    {
-      "name": "Duen Shih",
-      "practice": "Duen Shih, MD",
-      "specialty": "No Specialty",
-      "total_referrals": 3
-    },
-    {
-      "name": "Steve Lequerica",
-      "practice": "Neurology Group North Jersey",
-      "specialty": "Neurology",
-      "total_referrals": 4
-    },
-    {
-      "name": "CarePlus Rehab",
-      "practice": "CarePlus Rehab LLC",
-      "specialty": "Physical Therapy",
-      "total_referrals": 1
-    },
-    {
-      "name": "Wayne Berberian",
-      "practice": "Wayne Berberian, MD",
-      "specialty": "No Specialty",
-      "total_referrals": 3
-    },
-    {
-      "name": "Robin Heins",
-      "practice": "Medical Dispute Resolution LLC",
-      "specialty": "Workers Compensation",
-      "total_referrals": 1
-    },
-    {
-      "name": "ESMAT EL HALIM",
-      "practice": "QUALITY CARE REHAB",
-      "specialty": "No Specialty",
-      "total_referrals": 1
-    },
-    {
-      "name": "Crystal Run Health Care Crystal Run Health Care",
-      "practice": "Crystal Run Health Care",
-      "specialty": "No Specialty",
-      "total_referrals": 1
-    },
-    {
-      "name": "Omnitherapy Center Omnitherapy Center",
-      "practice": "Omnitherapy Center",
-      "specialty": "Physical Therapy",
-      "total_referrals": 4
-    },
-    {
-      "name": "KARTHIK AGGARWAL",
-      "practice": "MRNJ",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 1
-    },
-    {
-      "name": "HACKENSACK RADIOLOGY",
-      "practice": "HACKENSACK RADIOLOGY GROUP",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 1
-    },
-    {
-      "name": "HOSPITAL ST. MARY'S ",
-      "practice": "ST. MARY'S HOSPITAL",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 1
-    },
-    {
-      "name": "Nutley Montclair Radiology",
-      "practice": "Nutley Montclair Radiology",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 2
-    },
-    {
-      "name": "Sam Samoohi",
-      "practice": "Suretox Laboratory",
-      "specialty": "No Specialty",
-      "total_referrals": 1
-    },
-    {
-      "name": "Melissa Morgenstond",
-      "practice": "Union Medical Imaging",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 1
-    },
-    {
-      "name": "OPEN MRI  GARDEN STATE",
-      "practice": "GARDEN STATE OPEN MRI ",
-      "specialty": "MRI/X-RAY/CT/Etc",
-      "total_referrals": 1
-    },
-    {
-      "name": "RICHARD HOLSMAN",
-      "practice": "HOLSMAN PHYSICAL THERAPY",
-      "specialty": "Physical Therapy",
-      "total_referrals": 1
-    },
-    {
-      "name": "mri  hudson ",
-      "practice": "hudson mri",
-      "specialty": "MRI/X-RAY/CT/Etc",
       "total_referrals": 1
     }
   ],
@@ -983,12 +983,396 @@
       "target": "Kevin Finnesey"
     },
     {
+      "source": "Kevin Finnesey",
+      "target": "Sean Strang"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "RadNet Inc."
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Yesenia  Diaz"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Olga Chepkunov"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Michael Lenart"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "No Led"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "SportsMed PT"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "MICHAEL  DISTEFANO"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Iyad Baker"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Peter Ponzini"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Frank Scerbo"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Rich Romano"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Gino Ramundo"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Ravi Venkataraman"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Ken Ermann"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Michael Kryagin"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Nikki Lombardi"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Steve Bontempo"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Bob Zeyda"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Steve Conte"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Albert Khalaf"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "CALDWELL MONTCLAIR RADIOLOGY"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "DMI DMI"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Nalini Prasad"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "MEDICAL & MOLECULAR IMAGING OF WAYNE"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Robin Heins"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Clara Mass Clara Maas"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Carl Gargiulo"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Bert Lee"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Ewelina Taszyniec"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Michael Kailas"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "Melissa Morgenstond"
+    },
+    {
+      "source": "Kevin Finnesey",
+      "target": "RICHARD HOLSMAN"
+    },
+    {
       "source": "Howard Baruch",
       "target": "Premier Surgery"
     },
     {
       "source": "Howard Baruch",
       "target": "Danielle Groves"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "RAMIC MEDICAL IMAGING"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Olga Chepkunov"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Michael Kryagin"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Michael Lenart"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Valskys Rytis"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Phillip Meneses"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "No Led"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "RadNet Inc."
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Rich Romano"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Charles Ingenito"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Carl Gargiulo"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Bert Lee"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Mostafa El Khashab"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "East Coast Fitness"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Peter Ponzini"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "DELTA ORTHOPAEDICS"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "RANDALL SLADE"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "PMC Radiology"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "STAR MRI OF WAYNE"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Nikki Lombardi"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Carla Loaiza"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Feodor Sakatch"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Tomi Prvulovic"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Sean Strang"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "JERSEY CITY MEDICAL CENTER JERSEY CITY MEDICAL CENTER"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Justin Huist"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "ravi tikoo"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Nalini Prasad"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Gino Ramundo"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Robert Firetto"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Andrew Perrone"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Ravi Venkataraman"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Radiology Center Radiology Center"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Clara Mass Clara Maas"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Gregory Zaccone"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "BINOD SINHA"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Albert Khalaf"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Steve Bontempo"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": null
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "TOTOWA OPEN MRI "
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Hackensack Hospital"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Frank Scerbo"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "SportsMed PT"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Adrienne Dimperio"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Steve Lequerica"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Wayne Berberian"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Fairlawn Radiology Center"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "TU Rehab"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Mark Hoffman"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "HOSPITAL IN PATERSON ST. JOSEPH'S "
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "PMC Physical Therapy"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "HACKENSACK RADIOLOGY"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "MICHELLE TAWIL"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "HOSPITAL ST. MARY'S "
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "HOSPITAL HOBOKEN "
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "WAYNE ST. JOSEPH'S HOSPITAL"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "DENVILLE DIAGNOSTIC"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Jason Baynes"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "WARREN BORRES"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "Nutley Montclair Radiology"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "David Rabe"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "OPEN MRI  GARDEN STATE"
+    },
+    {
+      "source": "Danielle Groves",
+      "target": "HOLLY NAME MEDICAL CENTER"
     },
     {
       "source": "Howard Baruch",
@@ -1007,8 +1391,116 @@
       "target": "Mohammad Dorri"
     },
     {
+      "source": "Mohammad Dorri",
+      "target": "Jack Atzmon"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "RadNet Inc."
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Gino Ramundo"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Michael Lenart"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Steve Bontempo"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Nalini Prasad"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Nikki Lombardi"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "SportsMed PT"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Phillip Meneses"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "No Led"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Rich Romano"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Albert Khalaf"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "MEGAN VARELA"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Iyad Baker"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Ken Ermann"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Olga Chepkunov"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Lee Raymond"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Moe Abtahi"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Gregory Zaccone"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Radiology Center Radiology Center"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Orthotics and  Prosthetics"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Crystal Run Health Care Crystal Run Health Care"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Bert Lee"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Michael Kryagin"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "Omnitherapy Center Omnitherapy Center"
+    },
+    {
+      "source": "Mohammad Dorri",
+      "target": "RANDALL SLADE"
+    },
+    {
       "source": "Howard Baruch",
       "target": "Premier Concierge"
+    },
+    {
+      "source": "Premier Concierge",
+      "target": "William De Iasi"
     },
     {
       "source": "Howard Baruch",
@@ -1017,6 +1509,178 @@
     {
       "source": "Howard Baruch",
       "target": "Danielle Zelnik"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Michael Lenart"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Gino Ramundo"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "DIAGNOSTIC IMAGING PROGRESSIVE "
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Izzy Borenstein"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "RadNet Inc."
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Yesenia  Diaz"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Robert Firetto"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "No Led"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Olga Chepkunov"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Rich Romano"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Bob Zeyda"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Sean Strang"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Mostafa El Khashab"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Gregory Zaccone"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Alpha Imaging"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "DELTA ORTHOPAEDICS"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Bert Lee"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "PMC Radiology"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Carl Gargiulo"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Hackensack Hospital"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Mark Hoffman"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Nikki Lombardi"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Charles Ingenito"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Pat Czorniewy"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "SportsMed PT"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Feodor Sakatch"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Michael Kryagin"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "TU Rehab"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Ronald Lombardi"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Avery Eisenrich"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Adrienne Dimperio"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "East Coast Fitness"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Nalini Prasad"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Duen Shih"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "JERSEY CITY MEDICAL CENTER JERSEY CITY MEDICAL CENTER"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "PMC Physical Therapy"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Peter Ponzini"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "WAYNE ST. JOSEPH'S HOSPITAL"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Albert Khalaf"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "TOTOWA OPEN MRI "
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Sam Samoohi"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "CALDWELL MONTCLAIR RADIOLOGY"
+    },
+    {
+      "source": "Danielle Zelnik",
+      "target": "Fair Lawn Diagnostic Imaging Center"
     },
     {
       "source": "Howard Baruch",
@@ -1061,6 +1725,34 @@
     {
       "source": "Howard Baruch",
       "target": "Barry Finkelstein"
+    },
+    {
+      "source": "Barry Finkelstein",
+      "target": "Olga Chepkunov"
+    },
+    {
+      "source": "Barry Finkelstein",
+      "target": "Yesenia  Diaz"
+    },
+    {
+      "source": "Barry Finkelstein",
+      "target": "RadNet Inc."
+    },
+    {
+      "source": "Barry Finkelstein",
+      "target": "William De Iasi"
+    },
+    {
+      "source": "Barry Finkelstein",
+      "target": "Gino Ramundo"
+    },
+    {
+      "source": "Barry Finkelstein",
+      "target": "Rich Romano"
+    },
+    {
+      "source": "Barry Finkelstein",
+      "target": "PMC Physical Therapy"
     },
     {
       "source": "Howard Baruch",
@@ -1149,6 +1841,322 @@
     {
       "source": "Howard Baruch",
       "target": "Christine Corradino"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Gino Ramundo"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Nikki Lombardi"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Bert Lee"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Olga Chepkunov"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "RadNet Inc."
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Feodor Sakatch"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "No Led"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Yesenia  Diaz"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Michael Lenart"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Izzy Borenstein"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Nalini Prasad"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Sean Strang"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Mostafa El Khashab"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "CALDWELL MONTCLAIR RADIOLOGY"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Pat Mende"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Albert Khalaf"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "East Coast Fitness"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Charles Ingenito"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Carl Gargiulo"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Michael Kryagin"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Rich Romano"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Andrew Perrone"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "YAIR KISSIN"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Gregory Zaccone"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Peter Ponzini"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "IMAGING ST. JOSEPH'S AMBULATORY"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Phillip Meneses"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Frank Liporace"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "HOSPITAL HOBOKEN "
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "hoboken hoboken university"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Justin Huist"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Carla Loaiza"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "ORTHOPEDIC DELTA"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "WARREN BORRES"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "STAR MRI OF WAYNE"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "JERSEY CITY MEDICAL CENTER JERSEY CITY MEDICAL CENTER"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Frank Scerbo"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "JOHN BUCO"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "PMC Radiology"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Kerri Czorniewy"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Valskys Rytis"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "BORIS KATZ"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "SportsMed PT"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Susan Pellegrino"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Clara Mass Clara Maas"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "TOTOWA OPEN MRI "
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Steve Conte"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Leiza Redi"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Robert Firetto"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Lee Raymond"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Boris Kavalechik"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Bob Zeyda"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Moe Abtahi"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Stuart Katz"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Fairlawn Radiology Center"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "TU Rehab"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Iyad Baker"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Tomi Prvulovic"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Ken Ermann"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Steve Bontempo"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "WAYNE ST. JOSEPH'S HOSPITAL"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "therapy rockland"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "MEDICAL PARK IMAGING "
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "TRINITAS DIAGNOSTIC "
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Duen Shih"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "CarePlus Rehab"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "MASSIMO NAPOLITANO"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Hackensack Hospital"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Mark Gurland"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "John Capo"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "ESMAT EL HALIM"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Mark Hoffman"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "PMC Physical Therapy"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Saifulla Chaudhary"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Jason Baynes"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "HOSPITAL IN PATERSON ST. JOSEPH'S "
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Ewelina Taszyniec"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Nutley Montclair Radiology"
+    },
+    {
+      "source": "Christine Corradino",
+      "target": "Wayne Berberian"
     },
     {
       "source": "Howard Baruch",
@@ -1249,6 +2257,158 @@
     {
       "source": "Howard Baruch",
       "target": "Iris Drey"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "No Led"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Yesenia  Diaz"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Albert Khalaf"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Nikki Lombardi"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Carl Gargiulo"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "RadNet Inc."
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Charles Ingenito"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "East Coast Fitness"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Rich Romano"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "PMC Radiology"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Mostafa El Khashab"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Michael Lenart"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "therapy rockland"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "DELTA ORTHOPAEDICS"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Gino Ramundo"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Bob Zeyda"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Robert Firetto"
+    },
+    {
+      "source": "Iris Drey",
+      "target": null
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Tomi Prvulovic"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "IMAGING ST. JOSEPH'S AMBULATORY"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "JERSEY CITY MEDICAL CENTER JERSEY CITY MEDICAL CENTER"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Olga Chepkunov"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Sean Strang"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "quality quality care"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "rehabilitation quality care"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "A.G DIKENGIL"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "John Capo"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Michael Kryagin"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "TOTOWA OPEN MRI "
+    },
+    {
+      "source": "Iris Drey",
+      "target": "WAYNE ST. JOSEPH'S HOSPITAL"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Fairlawn Radiology Center"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "HOSPITAL HOBOKEN "
+    },
+    {
+      "source": "Iris Drey",
+      "target": "Hackensack Hospital"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "PMC Physical Therapy"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "WARREN BORRES"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "ravi tikoo"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "KARTHIK AGGARWAL"
+    },
+    {
+      "source": "Iris Drey",
+      "target": "mri  hudson "
     },
     {
       "source": "Howard Baruch",
@@ -1449,1166 +2609,6 @@
     {
       "source": "Howard Baruch",
       "target": "Fair Lawn Diagnostic Imaging Center"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Gino Ramundo"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Nikki Lombardi"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Bert Lee"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Olga Chepkunov"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "RadNet Inc."
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Michael Lenart"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "RAMIC MEDICAL IMAGING"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Feodor Sakatch"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Gino Ramundo"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Olga Chepkunov"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Michael Kryagin"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Michael Lenart"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "DIAGNOSTIC IMAGING PROGRESSIVE "
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "No Led"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "No Led"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Sean Strang"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Yesenia  Diaz"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Valskys Rytis"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Yesenia  Diaz"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Izzy Borenstein"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Michael Lenart"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Izzy Borenstein"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "RadNet Inc."
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Nalini Prasad"
-    },
-    {
-      "source": "Barry Finkelstein",
-      "target": "Olga Chepkunov"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Sean Strang"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Albert Khalaf"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "RadNet Inc."
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Yesenia  Diaz"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Phillip Meneses"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Jack Atzmon"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Olga Chepkunov"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "No Led"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "RadNet Inc."
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Rich Romano"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "RadNet Inc."
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Mostafa El Khashab"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Gino Ramundo"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Nikki Lombardi"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Carl Gargiulo"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "CALDWELL MONTCLAIR RADIOLOGY"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Pat Mende"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Albert Khalaf"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Yesenia  Diaz"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "East Coast Fitness"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Charles Ingenito"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Carl Gargiulo"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "RadNet Inc."
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Michael Lenart"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Robert Firetto"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Charles Ingenito"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Charles Ingenito"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Michael Kryagin"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "No Led"
-    },
-    {
-      "source": "Barry Finkelstein",
-      "target": "Yesenia  Diaz"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Rich Romano"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Olga Chepkunov"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "No Led"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Michael Lenart"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Rich Romano"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Carl Gargiulo"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Bert Lee"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Bob Zeyda"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Mostafa El Khashab"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Andrew Perrone"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "East Coast Fitness"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Steve Bontempo"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Rich Romano"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "YAIR KISSIN"
-    },
-    {
-      "source": "Barry Finkelstein",
-      "target": "RadNet Inc."
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Nalini Prasad"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Gregory Zaccone"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "East Coast Fitness"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Peter Ponzini"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "IMAGING ST. JOSEPH'S AMBULATORY"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "PMC Radiology"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Mostafa El Khashab"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Phillip Meneses"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Frank Liporace"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Peter Ponzini"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Sean Strang"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "HOSPITAL HOBOKEN "
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "SportsMed PT"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "hoboken hoboken university"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Mostafa El Khashab"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Nikki Lombardi"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "SportsMed PT"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "DELTA ORTHOPAEDICS"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Gregory Zaccone"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "MICHAEL  DISTEFANO"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Alpha Imaging"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "RANDALL SLADE"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Iyad Baker"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "PMC Radiology"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Peter Ponzini"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Frank Scerbo"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Justin Huist"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Carla Loaiza"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "ORTHOPEDIC DELTA"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "STAR MRI OF WAYNE"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Phillip Meneses"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "WARREN BORRES"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "STAR MRI OF WAYNE"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "DELTA ORTHOPAEDICS"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Nikki Lombardi"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "JERSEY CITY MEDICAL CENTER JERSEY CITY MEDICAL CENTER"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Bert Lee"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Carla Loaiza"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Frank Scerbo"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Rich Romano"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Michael Lenart"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "PMC Radiology"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Feodor Sakatch"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "therapy rockland"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Carl Gargiulo"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Tomi Prvulovic"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "DELTA ORTHOPAEDICS"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "JOHN BUCO"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "No Led"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Gino Ramundo"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "PMC Radiology"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Rich Romano"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Kerri Czorniewy"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Albert Khalaf"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Valskys Rytis"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Hackensack Hospital"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "BORIS KATZ"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Sean Strang"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "JERSEY CITY MEDICAL CENTER JERSEY CITY MEDICAL CENTER"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Justin Huist"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "SportsMed PT"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "ravi tikoo"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Mark Hoffman"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Susan Pellegrino"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Clara Mass Clara Maas"
-    },
-    {
-      "source": "Premier Concierge",
-      "target": "William De Iasi"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Nikki Lombardi"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "TOTOWA OPEN MRI "
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Charles Ingenito"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Pat Czorniewy"
-    },
-    {
-      "source": "Barry Finkelstein",
-      "target": "William De Iasi"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "SportsMed PT"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "MEGAN VARELA"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Steve Conte"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Leiza Redi"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Iyad Baker"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Robert Firetto"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Ken Ermann"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Lee Raymond"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Boris Kavalechik"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Ravi Venkataraman"
-    },
-    {
-      "source": "Barry Finkelstein",
-      "target": "Gino Ramundo"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Ken Ermann"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Gino Ramundo"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Olga Chepkunov"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Feodor Sakatch"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Michael Kryagin"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Nikki Lombardi"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Bob Zeyda"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Moe Abtahi"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Stuart Katz"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Steve Bontempo"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Nalini Prasad"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Michael Kryagin"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Fairlawn Radiology Center"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "TU Rehab"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Gino Ramundo"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Lee Raymond"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Iyad Baker"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Bob Zeyda"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Robert Firetto"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Bob Zeyda"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Robert Firetto"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Steve Conte"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "TU Rehab"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Tomi Prvulovic"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Ken Ermann"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Ronald Lombardi"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Moe Abtahi"
-    },
-    {
-      "source": "Iris Drey",
-      "target": null
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Andrew Perrone"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Ravi Venkataraman"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Tomi Prvulovic"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "IMAGING ST. JOSEPH'S AMBULATORY"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Avery Eisenrich"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Adrienne Dimperio"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "JERSEY CITY MEDICAL CENTER JERSEY CITY MEDICAL CENTER"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Steve Bontempo"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Radiology Center Radiology Center"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Olga Chepkunov"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Clara Mass Clara Maas"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Gregory Zaccone"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "WAYNE ST. JOSEPH'S HOSPITAL"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "BINOD SINHA"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "therapy rockland"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Sean Strang"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "quality quality care"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "rehabilitation quality care"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Albert Khalaf"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Steve Bontempo"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "East Coast Fitness"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "MEDICAL PARK IMAGING "
-    },
-    {
-      "source": "Danielle Groves",
-      "target": null
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "TOTOWA OPEN MRI "
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Hackensack Hospital"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Albert Khalaf"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Gregory Zaccone"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Frank Scerbo"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "TRINITAS DIAGNOSTIC "
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "SportsMed PT"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "A.G DIKENGIL"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "John Capo"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Adrienne Dimperio"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "CALDWELL MONTCLAIR RADIOLOGY"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "DMI DMI"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Radiology Center Radiology Center"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Duen Shih"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Nalini Prasad"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Michael Kryagin"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Nalini Prasad"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Steve Lequerica"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "TOTOWA OPEN MRI "
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "CarePlus Rehab"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "MASSIMO NAPOLITANO"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "WAYNE ST. JOSEPH'S HOSPITAL"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Fairlawn Radiology Center"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Orthotics and  Prosthetics"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Hackensack Hospital"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Wayne Berberian"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "MEDICAL & MOLECULAR IMAGING OF WAYNE"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Duen Shih"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Robin Heins"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Mark Gurland"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "John Capo"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "ESMAT EL HALIM"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Crystal Run Health Care Crystal Run Health Care"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Mark Hoffman"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Bert Lee"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Fairlawn Radiology Center"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "TU Rehab"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Mark Hoffman"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Michael Kryagin"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "HOSPITAL IN PATERSON ST. JOSEPH'S "
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "PMC Physical Therapy"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "PMC Physical Therapy"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "JERSEY CITY MEDICAL CENTER JERSEY CITY MEDICAL CENTER"
-    },
-    {
-      "source": "Barry Finkelstein",
-      "target": "Rich Romano"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "HOSPITAL HOBOKEN "
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "Omnitherapy Center Omnitherapy Center"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Clara Mass Clara Maas"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "Hackensack Hospital"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Carl Gargiulo"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "PMC Physical Therapy"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Bert Lee"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "PMC Physical Therapy"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "WARREN BORRES"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "ravi tikoo"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Saifulla Chaudhary"
-    },
-    {
-      "source": "Barry Finkelstein",
-      "target": "PMC Physical Therapy"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "KARTHIK AGGARWAL"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Peter Ponzini"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Jason Baynes"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "HOSPITAL IN PATERSON ST. JOSEPH'S "
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "HACKENSACK RADIOLOGY"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "WAYNE ST. JOSEPH'S HOSPITAL"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Albert Khalaf"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "MICHELLE TAWIL"
-    },
-    {
-      "source": "Mohammad Dorri",
-      "target": "RANDALL SLADE"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "HOSPITAL ST. MARY'S "
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "HOSPITAL HOBOKEN "
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "WAYNE ST. JOSEPH'S HOSPITAL"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Ewelina Taszyniec"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "DENVILLE DIAGNOSTIC"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Jason Baynes"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Ewelina Taszyniec"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "WARREN BORRES"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "TOTOWA OPEN MRI "
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "Nutley Montclair Radiology"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Nutley Montclair Radiology"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Sam Samoohi"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "David Rabe"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Michael Kailas"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "Melissa Morgenstond"
-    },
-    {
-      "source": "Christine Corradino",
-      "target": "Wayne Berberian"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "OPEN MRI  GARDEN STATE"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "CALDWELL MONTCLAIR RADIOLOGY"
-    },
-    {
-      "source": "Danielle Groves",
-      "target": "HOLLY NAME MEDICAL CENTER"
-    },
-    {
-      "source": "Kevin Finnesey",
-      "target": "RICHARD HOLSMAN"
-    },
-    {
-      "source": "Danielle Zelnik",
-      "target": "Fair Lawn Diagnostic Imaging Center"
-    },
-    {
-      "source": "Iris Drey",
-      "target": "mri  hudson "
     }
   ]
 }
