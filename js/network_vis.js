@@ -108,7 +108,7 @@ Network = function() {
   node = null;
   link = null;
   layout = "force";
-  filter = "no-baruch";
+  filter = "all";
   groupCenters = null;
   force = d3.layout.force();
   nodeColors = d3.scale.category20();
@@ -222,7 +222,7 @@ Network = function() {
       });
     } else if (filter === "no-premier") {
       filteredNodes = allNodes.filter(function(n) {
-        return n.practice != "Premier Orthopaedics" || n.name.toLowerCase().split(" ")[1] == doctor;
+        return n.practice != "Premier Orthopaedics" || n.name.toLowerCase().split(" ")[1] == doctor || n.name.toLowerCase().split(" ")[1] == "baruch";
       });
     } else if (filter === "premier-only") {
       filteredNodes = allNodes.filter(function(n) {
