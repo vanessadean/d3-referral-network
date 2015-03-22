@@ -115,7 +115,7 @@ Network = function() {
   colorsForLegend = [];
   tooltip = Tooltip("vis-tooltip", 230);
   charge = function(node) {
-    return -Math.pow(node.radius, 2.0) / 2;
+    return -Math.pow(node.radius, 2.0) / 3;
   };
   network = function(selection, data) {
     var vis;
