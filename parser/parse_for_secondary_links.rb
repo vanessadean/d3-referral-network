@@ -11,27 +11,43 @@ class SecondaryParse
   def parse_for(doctor, exclude=nil)
     CSV.foreach("../data/DataForVanessa.csv") do |row|
       if row[0] == doctor && row[0] != row[3] && row[4] != exclude
-        node1 = @data["nodes"].detect { |node| node["name"] == row[0] }
-        node2 = @data["nodes"].detect { |node| node["name"] == row[3] }
+        sender_in_parsed_data = node_in_parsed_data(row[0])
+        receiver_in_parsed_data = node_in_parsed_data(row[3])
 
-        if node1
-          node1["total_referrals"] += 1
+        if sender_in_parsed_data
+          sender_in_parsed_data["total_referrals"] += 1
         else
-          @data["nodes"] << {"name" => row[0], "practice" => row[1], "specialty" => row[2], "total_referrals" => 1}
+          add_node_to_parsed_data(row[0],row[1],row[2])
         end
 
-        if node2
-          node2["total_referrals"] += 1
+        if receiver_in_parsed_data
+          receiver_in_parsed_data["total_referrals"] += 1
         else
-          @data["nodes"] << {"name" => row[3], "practice" => row[4], "specialty" => row[5], "total_referrals" => 1}
+          add_node_to_parsed_data(row[3],row[4],row[5])
         end
 
-        unless @data["links"].any? { |link| link == { "source" => row[0], "target" => row[3] } }
-          @data["links"] << { "source" => row[0], "target" => row[3] }
+        unless link_exists_in_parsed_data?(row[0],row[3])
+          add_link_to_parsed_data(row[0],row[3])
           parse_for(row[3], "Premier Orthopaedics")
         end
       end
     end
+  end
+
+  def node_in_parsed_data(doctor)
+    @data["nodes"].detect { |node| node["name"] == doctor }
+  end
+
+  def add_node_to_parsed_data(doctor,practice,specialty)
+    @data["nodes"] << {"name" => doctor, "practice" => practice, "specialty" => specialty, "total_referrals" => 1}
+  end
+
+  def link_exists_in_parsed_data?(sender,receiver)
+    @data["links"].any? { |link| link == { "source" => sender, "target" => receiver } }
+  end
+
+  def add_link_to_parsed_data(sender,receiver)
+    @data["links"] << { "source" => sender, "target" => receiver }
   end
 
   def create_json_file(filename)

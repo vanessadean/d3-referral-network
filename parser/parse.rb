@@ -27,7 +27,7 @@ class Parse
         end
 
         unless link_exists_in_parsed_data?(row[0],row[3])
-          @data["links"] << { "source" => row[0], "target" => row[3] }
+          add_link_to_parsed_data(row[0,row[3])
         end
       end
     end
@@ -47,6 +47,10 @@ class Parse
     @data["links"].any? { |link| link == { "source" => sender, "target" => receiver } }
   end
 
+  def add_link_to_parsed_data(sender,receiver)
+    @data["links"] << { "source" => sender, "target" => receiver }
+  end
+
   def create_json_file(doctor)
     File.open("../data/#{doctor.split(" ").last.downcase}.json", 'w') do |file|
       file.puts JSON.pretty_generate(JSON.parse(@data.to_json))
@@ -55,12 +59,12 @@ class Parse
 end
 
 Parse.new.parse_for("Howard Baruch")
-# Parse.new.parse_for("Christine Corradino")
-# Parse.new.parse_for("Mohammad Dorri")
-# Parse.new.parse_for("Danielle Groves")
-# Parse.new.parse_for("Danielle Zelnik")
-# Parse.new.parse_for("Iris Drey")
-# Parse.new.parse_for
+Parse.new.parse_for("Christine Corradino")
+Parse.new.parse_for("Mohammad Dorri")
+Parse.new.parse_for("Danielle Groves")
+Parse.new.parse_for("Danielle Zelnik")
+Parse.new.parse_for("Iris Drey")
+Parse.new.parse_for
 
 
 
