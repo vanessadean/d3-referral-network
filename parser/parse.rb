@@ -8,8 +8,8 @@ class Parse
     @data["links"] = []
   end
 
-  def parse_for(doctor="all_doctors")
-    CSV.foreach("../data/DataForVanessa.csv") do |row|
+  def parse_for(doctor="all_doctors",path_to_file="../data/DataForVanessa.csv")
+    CSV.foreach(path_to_file) do |row|
       if (row[0] == doctor || doctor == "all_doctors") && row[0] != row[3]
         sender_in_parsed_data = node_in_parsed_data(row[0])
         receiver_in_parsed_data = node_in_parsed_data(row[3])
@@ -27,7 +27,7 @@ class Parse
         end
 
         unless link_exists_in_parsed_data?(row[0],row[3])
-          add_link_to_parsed_data(row[0,row[3])
+          add_link_to_parsed_data(row[0],row[3])
         end
       end
     end
